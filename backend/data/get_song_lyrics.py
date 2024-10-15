@@ -47,7 +47,7 @@ def get_song_genre(song_id: int) -> str:
 def write_songs_to_csv(songs: List[Song]):
     with open("./backend/data/lyrics_to_top_100_songs.csv", mode='w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(["Rank", "Title", "Artist", "Lyrics", "Genre"])
+        writer.writerow(["Rank", "Title", "Artist", "Genre", "Lyrics"])
         for song in songs:
             writer.writerow([song.rank, song.title, song.artist, song.genre, song.lyrics])
 
