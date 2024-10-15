@@ -1,2 +1,5 @@
 fastapi
 uvicorn
+billboard.py
+lyricsgenius
+python-dotenv
