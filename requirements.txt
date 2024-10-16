@@ -3,3 +3,5 @@ uvicorn
 billboard.py
 lyricsgenius
 python-dotenv
+pandas
+nltk
