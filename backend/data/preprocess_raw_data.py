@@ -60,5 +60,5 @@ remove_punctuation(data)
 remove_stop_words(data)
 stem_lyrics(data)
 
-output_file = 'backend/data/cleaned_lyrics.csv'
+output_file = 'backend/data/preprocessed_lyrics.csv'
 data.to_csv(output_file, index=False)
