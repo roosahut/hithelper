@@ -5,3 +5,4 @@ lyricsgenius
 python-dotenv
 pandas
 nltk
+scikit-learn

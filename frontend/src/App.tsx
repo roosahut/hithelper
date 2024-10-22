@@ -21,9 +21,17 @@ function App() {
     label: string;
   } | null>(null);
   const [words, setWords] = useState<GenreData>({});
+  const [wordCloudType, setWordCloudType] = useState<"tfidf" | "common">(
+    "tfidf"
+  );
 
   useEffect(() => {
-    fetch("/most_common_words_per_genre.json")
+    const json =
+      wordCloudType === "tfidf"
+        ? "tfidf_words_by_genre.json"
+        : "most_common_words_by_genre.json";
+
+    fetch(json)
       .then((response) => response.json())
       .then((data: GenreData) => {
         setGenres(
@@ -31,7 +39,7 @@ function App() {
         );
         setWords(data);
       });
-  }, []);
+  }, [wordCloudType]);
 
   const handleGenreChange = (
     selectedOption: { value: string; label: string } | null
@@ -63,15 +71,41 @@ function App() {
   return (
     <div className="container">
       <h1>HitHelper</h1>
+      <hr className="divider" />
+      <span>
+        Do you want to see wordclouds based on TF-IDF values or common words?
+      </span>
+      <div className="radio-buttons">
+        <label>
+          <input
+            type="radio"
+            value="tfidf"
+            checked={wordCloudType === "tfidf"}
+            onChange={() => setWordCloudType("tfidf")}
+          />
+          TF-IDF values
+        </label>
+        <label>
+          <input
+            type="radio"
+            value="common"
+            checked={wordCloudType === "common"}
+            onChange={() => setWordCloudType("common")}
+          />
+          Common words
+        </label>
+      </div>
+      <span>Select your genre of choice!</span>
       <Select
         options={genres}
         onChange={handleGenreChange}
         placeholder="Select a genre"
+        className="select"
       />
       <Wordcloud
         words={wordcloudData}
         width={800}
-        height={800}
+        height={450}
         fontSize={fontSizeSetter}
         font={"Impact"}
         padding={2}
