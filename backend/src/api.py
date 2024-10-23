@@ -4,6 +4,8 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import uvicorn
 
+# This file is not in use right now, but we left the skeleton here for possible further development
+
 app = FastAPI()
 
 class Genre(BaseModel):
@@ -25,12 +27,9 @@ app.add_middleware(
     allow_headers=["*"]
 )
 
-@app.post('/api/genre')
-def get_genre_wordcloud(genre: Genre):
-    pass
-
 @app.post('/api/lyric_percentage')
 def get_lyric_similarity_percentage(lyrics: Lyrics):
+    """Api function for the possible future lyric similarity percentage functionality."""
     pass
 
 

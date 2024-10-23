@@ -3,6 +3,7 @@ from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
 import json
 
+# The genre options we want for the wordclouds (basically genres with enough songs)
 genres = [
   'Pop', 'Alternative', 'Country', 'Rap', 'Rock', 'Folk', 'R&B', 'Soul', 'Electronic', 'Dance'
 ]
@@ -51,3 +52,5 @@ genre_data = organize_lyrics_by_genre(data)
 
 get_most_common_words_json(genre_data)
 get_tfidf_values_json(genre_data)
+
+# The jsons are moved to frontend/public so frontend can use them directly for the wordclouds, look for the data there
