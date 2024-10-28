@@ -5,7 +5,7 @@ import json
 
 # The genre options we want for the wordclouds (basically genres with enough songs)
 genres = [
-  'Pop', 'Alternative', 'Country', 'Rap', 'Rock', 'Folk', 'R&B', 'Soul', 'Electronic', 'Dance'
+  'Dance', 'Electronic', 'R&B', 'Pop', 'Alternative', 'Country', 'Rap', 'Rock', 'Folk', 'Soul'
 ]
 
 def organize_lyrics_by_genre(data):
@@ -32,14 +32,21 @@ def get_most_common_words_json(data):
 def get_tfidf_values_json(data):
   """Create a json where genres have their lyric words ranked by TF/IDF vectorization."""
   tfidf_vectorizer = TfidfVectorizer(max_features=50)
+  all_lyrics = list(data.values())
+  tfidf_vectorizer.fit(all_lyrics)
+
   genre_tfidf_values = {}
 
   for genre, lyrics in data.items():
-    tfidf_matrix = tfidf_vectorizer.fit_transform([lyrics])
+    tfidf_matrix = tfidf_vectorizer.transform([lyrics])
     words = tfidf_vectorizer.get_feature_names()
     tfidf_scores = tfidf_matrix.toarray().flatten()
 
-    word_list_for_genre = [{'text': word, 'value': score} for word, score in zip(words, tfidf_scores)]
+    word_list_for_genre = [
+            {'text': word, 'value': score} 
+            for word, score in zip(words, tfidf_scores) 
+            if score > 0
+        ]
     word_list_for_genre = sorted(word_list_for_genre, key=lambda x: x['value'], reverse=True)
     genre_tfidf_values[genre] = word_list_for_genre
   

@@ -1,4 +1,610 @@
 {
+  "Dance": [
+    {
+      "text": "talk",
+      "value": 37
+    },
+    {
+      "text": "close",
+      "value": 34
+    },
+    {
+      "text": "drive",
+      "value": 19
+    },
+    {
+      "text": "wanna",
+      "value": 18
+    },
+    {
+      "text": "break",
+      "value": 16
+    },
+    {
+      "text": "babi",
+      "value": 15
+    },
+    {
+      "text": "mile",
+      "value": 15
+    },
+    {
+      "text": "bed",
+      "value": 14
+    },
+    {
+      "text": "night",
+      "value": 13
+    },
+    {
+      "text": "ya",
+      "value": 12
+    },
+    {
+      "text": "bet",
+      "value": 12
+    },
+    {
+      "text": "love",
+      "value": 12
+    },
+    {
+      "text": "airport",
+      "value": 12
+    },
+    {
+      "text": "yeah",
+      "value": 11
+    },
+    {
+      "text": "guess",
+      "value": 10
+    },
+    {
+      "text": "left",
+      "value": 10
+    },
+    {
+      "text": "ooh",
+      "value": 10
+    },
+    {
+      "text": "chem",
+      "value": 10
+    },
+    {
+      "text": "sweet",
+      "value": 9
+    },
+    {
+      "text": "ticket",
+      "value": 9
+    },
+    {
+      "text": "tast",
+      "value": 9
+    },
+    {
+      "text": "time",
+      "value": 9
+    },
+    {
+      "text": "ahah",
+      "value": 9
+    },
+    {
+      "text": "sleep",
+      "value": 8
+    },
+    {
+      "text": "espresso",
+      "value": 8
+    },
+    {
+      "text": "feel",
+      "value": 8
+    },
+    {
+      "text": "ha",
+      "value": 8
+    },
+    {
+      "text": "heart",
+      "value": 8
+    },
+    {
+      "text": "gonna",
+      "value": 8
+    },
+    {
+      "text": "bout",
+      "value": 7
+    },
+    {
+      "text": "bad",
+      "value": 7
+    },
+    {
+      "text": "touch",
+      "value": 7
+    },
+    {
+      "text": "pull",
+      "value": 7
+    },
+    {
+      "text": "obsess",
+      "value": 7
+    },
+    {
+      "text": "life",
+      "value": 7
+    },
+    {
+      "text": "appl",
+      "value": 7
+    },
+    {
+      "text": "cute",
+      "value": 6
+    },
+    {
+      "text": "kane",
+      "value": 6
+    },
+    {
+      "text": "brown",
+      "value": 6
+    },
+    {
+      "text": "truck",
+      "value": 6
+    },
+    {
+      "text": "wide",
+      "value": 6
+    },
+    {
+      "text": "fall",
+      "value": 6
+    },
+    {
+      "text": "door",
+      "value": 6
+    },
+    {
+      "text": "sabrina",
+      "value": 5
+    },
+    {
+      "text": "carpent",
+      "value": 5
+    },
+    {
+      "text": "shit",
+      "value": 5
+    },
+    {
+      "text": "kissin",
+      "value": 5
+    },
+    {
+      "text": "chevi",
+      "value": 5
+    },
+    {
+      "text": "engin",
+      "value": 5
+    },
+    {
+      "text": "runnin",
+      "value": 5
+    }
+  ],
+  "Electronic": [
+    {
+      "text": "talk",
+      "value": 33
+    },
+    {
+      "text": "drive",
+      "value": 19
+    },
+    {
+      "text": "mile",
+      "value": 15
+    },
+    {
+      "text": "break",
+      "value": 13
+    },
+    {
+      "text": "airport",
+      "value": 12
+    },
+    {
+      "text": "yeah",
+      "value": 11
+    },
+    {
+      "text": "bumpin",
+      "value": 9
+    },
+    {
+      "text": "gonna",
+      "value": 8
+    },
+    {
+      "text": "night",
+      "value": 7
+    },
+    {
+      "text": "wanna",
+      "value": 7
+    },
+    {
+      "text": "appl",
+      "value": 7
+    },
+    {
+      "text": "kane",
+      "value": 6
+    },
+    {
+      "text": "brown",
+      "value": 6
+    },
+    {
+      "text": "truck",
+      "value": 6
+    },
+    {
+      "text": "love",
+      "value": 6
+    },
+    {
+      "text": "ahah",
+      "value": 6
+    },
+    {
+      "text": "door",
+      "value": 6
+    },
+    {
+      "text": "feel",
+      "value": 6
+    },
+    {
+      "text": "chevi",
+      "value": 5
+    },
+    {
+      "text": "engin",
+      "value": 5
+    },
+    {
+      "text": "runnin",
+      "value": 5
+    },
+    {
+      "text": "bed",
+      "value": 5
+    },
+    {
+      "text": "wide",
+      "value": 5
+    },
+    {
+      "text": "california",
+      "value": 5
+    },
+    {
+      "text": "king",
+      "value": 5
+    },
+    {
+      "text": "babi",
+      "value": 5
+    },
+    {
+      "text": "broken",
+      "value": 5
+    },
+    {
+      "text": "heart",
+      "value": 5
+    },
+    {
+      "text": "lot",
+      "value": 5
+    },
+    {
+      "text": "ticket",
+      "value": 5
+    },
+    {
+      "text": "left",
+      "value": 5
+    },
+    {
+      "text": "goin",
+      "value": 4
+    },
+    {
+      "text": "time",
+      "value": 4
+    },
+    {
+      "text": "shit",
+      "value": 4
+    },
+    {
+      "text": "camera",
+      "value": 4
+    },
+    {
+      "text": "bitch",
+      "value": 4
+    },
+    {
+      "text": "drop",
+      "value": 4
+    },
+    {
+      "text": "lookin",
+      "value": 4
+    },
+    {
+      "text": "mirror",
+      "value": 4
+    },
+    {
+      "text": "julia",
+      "value": 4
+    },
+    {
+      "text": "told",
+      "value": 4
+    },
+    {
+      "text": "guess",
+      "value": 4
+    },
+    {
+      "text": "fake",
+      "value": 3
+    },
+    {
+      "text": "gotta",
+      "value": 3
+    },
+    {
+      "text": "life",
+      "value": 3
+    },
+    {
+      "text": "light",
+      "value": 3
+    },
+    {
+      "text": "avoid",
+      "value": 3
+    },
+    {
+      "text": "hate",
+      "value": 3
+    },
+    {
+      "text": "refrain",
+      "value": 3
+    },
+    {
+      "text": "wring",
+      "value": 3
+    }
+  ],
+  "R&B": [
+    {
+      "text": "yeah",
+      "value": 78
+    },
+    {
+      "text": "ooh",
+      "value": 53
+    },
+    {
+      "text": "babi",
+      "value": 50
+    },
+    {
+      "text": "love",
+      "value": 47
+    },
+    {
+      "text": "wanna",
+      "value": 35
+    },
+    {
+      "text": "uh",
+      "value": 34
+    },
+    {
+      "text": "fuck",
+      "value": 20
+    },
+    {
+      "text": "timeless",
+      "value": 19
+    },
+    {
+      "text": "time",
+      "value": 17
+    },
+    {
+      "text": "door",
+      "value": 15
+    },
+    {
+      "text": "night",
+      "value": 14
+    },
+    {
+      "text": "heart",
+      "value": 14
+    },
+    {
+      "text": "fast",
+      "value": 14
+    },
+    {
+      "text": "bruno",
+      "value": 13
+    },
+    {
+      "text": "mar",
+      "value": 13
+    },
+    {
+      "text": "mind",
+      "value": 13
+    },
+    {
+      "text": "life",
+      "value": 13
+    },
+    {
+      "text": "lose",
+      "value": 12
+    },
+    {
+      "text": "ticket",
+      "value": 12
+    },
+    {
+      "text": "girl",
+      "value": 12
+    },
+    {
+      "text": "hold",
+      "value": 11
+    },
+    {
+      "text": "live",
+      "value": 11
+    },
+    {
+      "text": "cowgirl",
+      "value": 11
+    },
+    {
+      "text": "fallin",
+      "value": 10
+    },
+    {
+      "text": "chem",
+      "value": 10
+    },
+    {
+      "text": "save",
+      "value": 10
+    },
+    {
+      "text": "ladi",
+      "value": 9
+    },
+    {
+      "text": "gaga",
+      "value": 9
+    },
+    {
+      "text": "feel",
+      "value": 9
+    },
+    {
+      "text": "nah",
+      "value": 9
+    },
+    {
+      "text": "bed",
+      "value": 9
+    },
+    {
+      "text": "ha",
+      "value": 9
+    },
+    {
+      "text": "hey",
+      "value": 9
+    },
+    {
+      "text": "die",
+      "value": 8
+    },
+    {
+      "text": "bodi",
+      "value": 8
+    },
+    {
+      "text": "bad",
+      "value": 8
+    },
+    {
+      "text": "break",
+      "value": 8
+    },
+    {
+      "text": "control",
+      "value": 7
+    },
+    {
+      "text": "weeknd",
+      "value": 7
+    },
+    {
+      "text": "play",
+      "value": 7
+    },
+    {
+      "text": "matter",
+      "value": 7
+    },
+    {
+      "text": "boy",
+      "value": 7
+    },
+    {
+      "text": "wrong",
+      "value": 7
+    },
+    {
+      "text": "stay",
+      "value": 7
+    },
+    {
+      "text": "bet",
+      "value": 7
+    },
+    {
+      "text": "pain",
+      "value": 7
+    },
+    {
+      "text": "tonight",
+      "value": 7
+    },
+    {
+      "text": "safe",
+      "value": 7
+    },
+    {
+      "text": "smile",
+      "value": 6
+    },
+    {
+      "text": "shit",
+      "value": 6
+    }
+  ],
   "Pop": [
     {
       "text": "love",
@@ -1211,208 +1817,6 @@
       "value": 3
     }
   ],
-  "R&B": [
-    {
-      "text": "yeah",
-      "value": 78
-    },
-    {
-      "text": "ooh",
-      "value": 53
-    },
-    {
-      "text": "babi",
-      "value": 50
-    },
-    {
-      "text": "love",
-      "value": 47
-    },
-    {
-      "text": "wanna",
-      "value": 35
-    },
-    {
-      "text": "uh",
-      "value": 34
-    },
-    {
-      "text": "fuck",
-      "value": 20
-    },
-    {
-      "text": "timeless",
-      "value": 19
-    },
-    {
-      "text": "time",
-      "value": 17
-    },
-    {
-      "text": "door",
-      "value": 15
-    },
-    {
-      "text": "night",
-      "value": 14
-    },
-    {
-      "text": "heart",
-      "value": 14
-    },
-    {
-      "text": "fast",
-      "value": 14
-    },
-    {
-      "text": "bruno",
-      "value": 13
-    },
-    {
-      "text": "mar",
-      "value": 13
-    },
-    {
-      "text": "mind",
-      "value": 13
-    },
-    {
-      "text": "life",
-      "value": 13
-    },
-    {
-      "text": "lose",
-      "value": 12
-    },
-    {
-      "text": "ticket",
-      "value": 12
-    },
-    {
-      "text": "girl",
-      "value": 12
-    },
-    {
-      "text": "hold",
-      "value": 11
-    },
-    {
-      "text": "live",
-      "value": 11
-    },
-    {
-      "text": "cowgirl",
-      "value": 11
-    },
-    {
-      "text": "fallin",
-      "value": 10
-    },
-    {
-      "text": "chem",
-      "value": 10
-    },
-    {
-      "text": "save",
-      "value": 10
-    },
-    {
-      "text": "ladi",
-      "value": 9
-    },
-    {
-      "text": "gaga",
-      "value": 9
-    },
-    {
-      "text": "feel",
-      "value": 9
-    },
-    {
-      "text": "nah",
-      "value": 9
-    },
-    {
-      "text": "bed",
-      "value": 9
-    },
-    {
-      "text": "ha",
-      "value": 9
-    },
-    {
-      "text": "hey",
-      "value": 9
-    },
-    {
-      "text": "die",
-      "value": 8
-    },
-    {
-      "text": "bodi",
-      "value": 8
-    },
-    {
-      "text": "bad",
-      "value": 8
-    },
-    {
-      "text": "break",
-      "value": 8
-    },
-    {
-      "text": "control",
-      "value": 7
-    },
-    {
-      "text": "weeknd",
-      "value": 7
-    },
-    {
-      "text": "play",
-      "value": 7
-    },
-    {
-      "text": "matter",
-      "value": 7
-    },
-    {
-      "text": "boy",
-      "value": 7
-    },
-    {
-      "text": "wrong",
-      "value": 7
-    },
-    {
-      "text": "stay",
-      "value": 7
-    },
-    {
-      "text": "bet",
-      "value": 7
-    },
-    {
-      "text": "pain",
-      "value": 7
-    },
-    {
-      "text": "tonight",
-      "value": 7
-    },
-    {
-      "text": "safe",
-      "value": 7
-    },
-    {
-      "text": "smile",
-      "value": 6
-    },
-    {
-      "text": "shit",
-      "value": 6
-    }
-  ],
   "Soul": [
     {
       "text": "uh",
@@ -1613,410 +2017,6 @@
     {
       "text": "late",
       "value": 3
-    }
-  ],
-  "Electronic": [
-    {
-      "text": "talk",
-      "value": 33
-    },
-    {
-      "text": "drive",
-      "value": 19
-    },
-    {
-      "text": "mile",
-      "value": 15
-    },
-    {
-      "text": "break",
-      "value": 13
-    },
-    {
-      "text": "airport",
-      "value": 12
-    },
-    {
-      "text": "yeah",
-      "value": 11
-    },
-    {
-      "text": "bumpin",
-      "value": 9
-    },
-    {
-      "text": "gonna",
-      "value": 8
-    },
-    {
-      "text": "night",
-      "value": 7
-    },
-    {
-      "text": "wanna",
-      "value": 7
-    },
-    {
-      "text": "appl",
-      "value": 7
-    },
-    {
-      "text": "kane",
-      "value": 6
-    },
-    {
-      "text": "brown",
-      "value": 6
-    },
-    {
-      "text": "truck",
-      "value": 6
-    },
-    {
-      "text": "love",
-      "value": 6
-    },
-    {
-      "text": "ahah",
-      "value": 6
-    },
-    {
-      "text": "door",
-      "value": 6
-    },
-    {
-      "text": "feel",
-      "value": 6
-    },
-    {
-      "text": "chevi",
-      "value": 5
-    },
-    {
-      "text": "engin",
-      "value": 5
-    },
-    {
-      "text": "runnin",
-      "value": 5
-    },
-    {
-      "text": "bed",
-      "value": 5
-    },
-    {
-      "text": "wide",
-      "value": 5
-    },
-    {
-      "text": "california",
-      "value": 5
-    },
-    {
-      "text": "king",
-      "value": 5
-    },
-    {
-      "text": "babi",
-      "value": 5
-    },
-    {
-      "text": "broken",
-      "value": 5
-    },
-    {
-      "text": "heart",
-      "value": 5
-    },
-    {
-      "text": "lot",
-      "value": 5
-    },
-    {
-      "text": "ticket",
-      "value": 5
-    },
-    {
-      "text": "left",
-      "value": 5
-    },
-    {
-      "text": "goin",
-      "value": 4
-    },
-    {
-      "text": "time",
-      "value": 4
-    },
-    {
-      "text": "shit",
-      "value": 4
-    },
-    {
-      "text": "camera",
-      "value": 4
-    },
-    {
-      "text": "bitch",
-      "value": 4
-    },
-    {
-      "text": "drop",
-      "value": 4
-    },
-    {
-      "text": "lookin",
-      "value": 4
-    },
-    {
-      "text": "mirror",
-      "value": 4
-    },
-    {
-      "text": "julia",
-      "value": 4
-    },
-    {
-      "text": "told",
-      "value": 4
-    },
-    {
-      "text": "guess",
-      "value": 4
-    },
-    {
-      "text": "fake",
-      "value": 3
-    },
-    {
-      "text": "gotta",
-      "value": 3
-    },
-    {
-      "text": "life",
-      "value": 3
-    },
-    {
-      "text": "light",
-      "value": 3
-    },
-    {
-      "text": "avoid",
-      "value": 3
-    },
-    {
-      "text": "hate",
-      "value": 3
-    },
-    {
-      "text": "refrain",
-      "value": 3
-    },
-    {
-      "text": "wring",
-      "value": 3
-    }
-  ],
-  "Dance": [
-    {
-      "text": "talk",
-      "value": 37
-    },
-    {
-      "text": "close",
-      "value": 34
-    },
-    {
-      "text": "drive",
-      "value": 19
-    },
-    {
-      "text": "wanna",
-      "value": 18
-    },
-    {
-      "text": "break",
-      "value": 16
-    },
-    {
-      "text": "babi",
-      "value": 15
-    },
-    {
-      "text": "mile",
-      "value": 15
-    },
-    {
-      "text": "bed",
-      "value": 14
-    },
-    {
-      "text": "night",
-      "value": 13
-    },
-    {
-      "text": "ya",
-      "value": 12
-    },
-    {
-      "text": "bet",
-      "value": 12
-    },
-    {
-      "text": "love",
-      "value": 12
-    },
-    {
-      "text": "airport",
-      "value": 12
-    },
-    {
-      "text": "yeah",
-      "value": 11
-    },
-    {
-      "text": "guess",
-      "value": 10
-    },
-    {
-      "text": "left",
-      "value": 10
-    },
-    {
-      "text": "ooh",
-      "value": 10
-    },
-    {
-      "text": "chem",
-      "value": 10
-    },
-    {
-      "text": "sweet",
-      "value": 9
-    },
-    {
-      "text": "ticket",
-      "value": 9
-    },
-    {
-      "text": "tast",
-      "value": 9
-    },
-    {
-      "text": "time",
-      "value": 9
-    },
-    {
-      "text": "ahah",
-      "value": 9
-    },
-    {
-      "text": "sleep",
-      "value": 8
-    },
-    {
-      "text": "espresso",
-      "value": 8
-    },
-    {
-      "text": "feel",
-      "value": 8
-    },
-    {
-      "text": "ha",
-      "value": 8
-    },
-    {
-      "text": "heart",
-      "value": 8
-    },
-    {
-      "text": "gonna",
-      "value": 8
-    },
-    {
-      "text": "bout",
-      "value": 7
-    },
-    {
-      "text": "bad",
-      "value": 7
-    },
-    {
-      "text": "touch",
-      "value": 7
-    },
-    {
-      "text": "pull",
-      "value": 7
-    },
-    {
-      "text": "obsess",
-      "value": 7
-    },
-    {
-      "text": "life",
-      "value": 7
-    },
-    {
-      "text": "appl",
-      "value": 7
-    },
-    {
-      "text": "cute",
-      "value": 6
-    },
-    {
-      "text": "kane",
-      "value": 6
-    },
-    {
-      "text": "brown",
-      "value": 6
-    },
-    {
-      "text": "truck",
-      "value": 6
-    },
-    {
-      "text": "wide",
-      "value": 6
-    },
-    {
-      "text": "fall",
-      "value": 6
-    },
-    {
-      "text": "door",
-      "value": 6
-    },
-    {
-      "text": "sabrina",
-      "value": 5
-    },
-    {
-      "text": "carpent",
-      "value": 5
-    },
-    {
-      "text": "shit",
-      "value": 5
-    },
-    {
-      "text": "kissin",
-      "value": 5
-    },
-    {
-      "text": "chevi",
-      "value": 5
-    },
-    {
-      "text": "engin",
-      "value": 5
-    },
-    {
-      "text": "runnin",
-      "value": 5
     }
   ]
 }

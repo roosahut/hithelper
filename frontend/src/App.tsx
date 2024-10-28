@@ -104,8 +104,8 @@ function App() {
       />
       <Wordcloud
         words={wordcloudData}
-        width={800}
-        height={450}
+        width={1000}
+        height={500}
         fontSize={fontSizeSetter}
         font={"Impact"}
         padding={2}
